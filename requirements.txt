@@ -6,7 +6,7 @@ blinker==1.7.0
 cachetools==5.3.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
-opencv-python==4.5.3
+opencv-python==4.8.1.78
 libgl1-mesa-glx
 click==8.1.7
 colorama==0.4.6
